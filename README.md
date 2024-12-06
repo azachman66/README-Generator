@@ -22,8 +22,11 @@ A Node.js-based generator for creating README files through the command line.
 
 ## Usage
 
+The application will be invoked using the following command:
 
-
+```bash
+node index.js
+```
 
 ## License
 
