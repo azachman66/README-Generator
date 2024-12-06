@@ -28,6 +28,8 @@ The application will be invoked using the following command:
 node index.js
 ```
 
+[Screencastify Preview Recording](https://drive.google.com/file/d/1yk-ADIMTT0HQiul4owN6NggBKeJZezC9/view)
+
 ## License
 
 This project is licensed under the [MIT](https://choosealicense.com/licenses/MIT/) license.
